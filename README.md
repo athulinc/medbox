@@ -1,2 +1,2 @@
-# medbox
-iOS medicine reminder app
+# MedBox
+This iOS app will remind you to take medicines on time.
